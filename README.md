@@ -4,7 +4,7 @@ Chat Application using NodeJS
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/PAARTH2608/Chat App">
+  <a href="https://github.com/arya170702/Chat-App">
    <img src="https://logowik.com/content/uploads/images/google-chat4663.jpg" class="img-responsive" alt="Google Chat" style="user-select: auto;">
   </a>
  
@@ -17,7 +17,6 @@ Chat Application using NodeJS
     <br />
     <br />
   
-  Project Link: [Chat App](https://paarth-chat-app.herokuapp.com/chat.html?username=Paarth&room=JS)
   </p>
 </p>
 
