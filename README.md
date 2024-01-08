@@ -32,7 +32,7 @@ Chat Application using NodeJS
 To get a local copy up and running follow these simple steps.
 Clone the repo
    ```sh
-   https://github.com/PAARTH2608/Chat-App.git
+   https://github.com/arya170702/Chat-App.git
    ```
 
 Install all the npm packages. 
